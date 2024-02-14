@@ -9,5 +9,5 @@ type Super struct {
 }
 
 func (s *Super) Hello() string {
-	return "hello version 1"
+	return "hello version 2"
 }
